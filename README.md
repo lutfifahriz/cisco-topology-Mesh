@@ -26,3 +26,5 @@ Topologi Mesh digunakan pada jaringan yang membutuhkan redundansi dan kestabilan
 - Membutuhkan banyak kabel
 - Konfigurasi lebih kompleks
 - Biaya implementasi lebih tinggi
+
+![Topologi](https://github.com/lutfifahriz/cisco-topology-Mesh/blob/main/TOPOLOGI%20MESH.png)
